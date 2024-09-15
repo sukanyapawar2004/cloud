@@ -3,7 +3,7 @@
 <title> If Statement </title>
 <script type ="text/javascript">
 var age =prompt("Please enter your age");
-if(age<=18)
+if(age>=18)
 document.write(" you are an adult <br/>");
 if(age<18)
 document.write("your are not an adult<br/>");
